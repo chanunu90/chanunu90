@@ -1,9 +1,24 @@
 <div align=center>
+
+
+
+
+
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=new%20Wisdom();&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
+
+<!--
+<h3 align="center"> 👋 Hi there 👋 </h3>
+<p align="center">
+I'm Jihye Shin, a growing developer. 🌱 <br>
+I want to be a person who gives you new wisdom. ✨
+</p>
+-->
+
+
+<p align="center">
 <div align=center>
-<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Josh's%20GitHub!&fontSize=90" /> -->
-</div>
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h3 align="center">📚 Technology Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
@@ -52,11 +67,36 @@
   <a href="mailto:whtkdgml3627@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white&link=mailto:whtkdgml3627@naver.com"/></a>
   <a href="mailto:whtkdgml36271@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:whtkdgml36271@gmail.com"/></a>
 </div>
+</p>
+
+<h3 align="center">•••</h3>
+
+<p align="center">
+  <a href="https://newwisdom.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
+  <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
+  <a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
+  
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
+
+
+
+
+
+
+
+
+
+
+ 
+<div align=center>
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Josh's%20GitHub!&fontSize=90" /> -->
+</div>
+
 <br><br>
 <div align=center>
 
-
-  
 </div>
 </div>
 
