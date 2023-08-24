@@ -55,12 +55,12 @@
 <br><br>
 <div align=center>
 
-  ![Josh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=whtkdgml3627&show_icons=true&theme=dracula&count_private=true)
+
   
 </div>
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <!--
 **whtkdgml3627/whtkdgml3627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
