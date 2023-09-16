@@ -10,7 +10,6 @@ I want to be a person who gives you new wisdom. ✨
 </p>
 -->
 
-
 <p align="center">
 <div align=center>
 	<h3 align="center">📚 Technology Stack 📚</h3>
