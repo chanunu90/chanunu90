@@ -7,7 +7,7 @@
 <p align="center">
 I'm Jihye Shin, a growing developer. 🌱 <br>
 I want to be a person who gives you new wisdom. ✨
-</p> 
+</p>  
 -->
 
 <p align="center">
